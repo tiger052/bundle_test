@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3251382529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 429a76e28f661264cf2bf4e413973c8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Test/decomPre.mp3
+Dependencies: []

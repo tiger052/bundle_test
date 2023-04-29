@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2142230140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a75e4197654a6d21f2b8ed3d61736ede
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/Test/decomPreForceBackAmbisonic.mp3
+Dependencies: []

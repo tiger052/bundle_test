@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3777578997
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: decom
+      Dependencies: {}
+    Info_1:
+      Name: decompre
+      Dependencies: {}
+    Info_2:
+      Name: decompreforce
+      Dependencies: {}
+    Info_3:
+      Name: decompreforceback
+      Dependencies: {}
+    Info_4:
+      Name: decompreforcebackambisonic
+      Dependencies: {}
+    Info_5:
+      Name: streaming
+      Dependencies: {}
+    Info_6:
+      Name: cube1
+      Dependencies: {}
+    Info_7:
+      Name: cube2
+      Dependencies: {}
